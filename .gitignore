@@ -1,0 +1,22 @@
+# Local settings, credentials, application paths and diagnostic output
+.local/
+**/settings.json
+**/app-path.txt
+*.log
+# Build products; the bundled Harmony dependency is included
+bin/
+obj/
+*.dll
+!/0Harmony.dll
+*.exe
+*.pdb
+*.nupkg
+*.zip
+# Proprietary applications, documents and analysis artifacts
+ZhiyunTranslator/
+.analysis/
+*.pdf
+*.7z
+.DS_Store
+Thumbs.db
+.vscode/

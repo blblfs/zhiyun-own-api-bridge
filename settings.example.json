@@ -1,0 +1,6 @@
+{
+  "BaseUrl": "https://example.com/v1",
+  "ApiKey": "",
+  "Model": "your-model-id",
+  "TargetLanguage": "简体中文"
+}
